@@ -58,7 +58,7 @@ python track.py --video_path video.mp4 --save_path video_test.mp4 sam_checkpoint
 
 **Demo**
 
-- Our online demo is [here](https://blank). 
+- Our online demo is [here](http://sav.cstor.cn). 
 - Note: Considering that video segmentation is time-consuming, so we didn't integrate this method. If you are interested, you can git clone this repository and run on your GPU machine.
 
 **TODO**

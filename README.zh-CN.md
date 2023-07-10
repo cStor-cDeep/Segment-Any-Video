@@ -56,7 +56,7 @@ python track.py --video_path video.mp4 --save_path video_test.mp4 sam_checkpoint
 
 **演示**
 
-- 在线演示在 [这里](https://blank)。
+- 在线演示在 [这里](http://sav.cstor.cn)。
 - 注意: 考虑到视频分割与跟踪非常耗时，所以我们没有集成这个功能。如果你对此感兴趣，你可以克隆该项目，并在自己的GPU机器上运行。
 
 **工作计划**
