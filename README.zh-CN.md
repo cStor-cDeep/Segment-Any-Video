@@ -54,10 +54,10 @@ python track.py --video_path video.mp4 --save_path video_test.mp4 sam_checkpoint
 </div>
 <div align=center>目标分割和跟踪</div>
 
-<div align=center>
-<img src="./video/7.gif" width="100%" alt="track" />
+<div align=center>
+<img src="./video/7.gif" width="100%" alt="track" />
 </div>
-<div align=center>Segment and track</div>
+<div align=center>Segment and track</div>
 
 **演示**
 
