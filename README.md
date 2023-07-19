@@ -75,3 +75,11 @@ python track.py --video_path video.mp4 --save_path video_test.mp4 sam_checkpoint
 
 **License**
 - This code is licensed under the [AGPL-3.0 License](./LICENSE).
+
+
+**Contact**
+
+- Email: zhangkun@cstor.cn
+- Wechat QR code:
+
+<img width="280px" src="qr.jpg"/>

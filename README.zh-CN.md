@@ -74,3 +74,11 @@ python track.py --video_path video.mp4 --save_path video_test.mp4 sam_checkpoint
 
 **许可证**
 - 这份代码的许可证是 [AGPL-3.0 许可证](./LICENSE)。
+
+
+**联系方式**
+
+- 邮箱: zhangkun@cstor.cn
+- 微信:
+
+<img width="280px" src="qr.jpg"/>
