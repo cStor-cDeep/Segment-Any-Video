@@ -67,11 +67,11 @@ python track.py --video_path video.mp4 --save_path video_test.mp4 sam_checkpoint
 
 **TODO**
 - [ ] Train YOLOv8 models with object365 dataset
-    - [x] [YOLO8m.pt](https://pan.baidu.com/s/1Lhbl_ez5sCC81j-s6RvP6A)  extract code: 65ge
-    - [ ] YOLO8n.pt
-    - [ ] YOLO8s.pt
-    - [ ] YOLO8l.pt
-    - [ ] YOLO8x.pt
+    - [x] [YOLOv8m.pt](https://pan.baidu.com/s/1Lhbl_ez5sCC81j-s6RvP6A)  extract code: 65ge
+    - [ ] YOLOv8n.pt
+    - [ ] YOLOv8s.pt
+    - [ ] YOLOv8l.pt
+    - [ ] YOLOv8x.pt
 
 **License**
 - This code is licensed under the [AGPL-3.0 License](./LICENSE).
